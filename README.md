@@ -26,3 +26,4 @@ Why this matters:
 💡 Always up-to-date - New documents automatically enhance the bot's knowledge
 
 Perfect for customer support, internal documentation, or any scenario where you need quick access to information from multiple documents!
+<img width="1920" height="1080" alt="Screenshot 2025-09-04 113810" src="https://github.com/user-attachments/assets/e27219de-9d63-4cbd-bb6b-8aeedaae8e18" />
